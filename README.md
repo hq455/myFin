@@ -1,0 +1,2 @@
+# myFin
+Finance trading algorithm 
